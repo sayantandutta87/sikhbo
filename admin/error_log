@@ -1,0 +1,12 @@
+[31-Jan-2016 17:36:12 Asia/Kolkata] Default exception handler: Cannot downgrade qtype_ddimageortext from 2015111600 to 2015051000. Debug: 
+Error code: cannotdowngrade
+* line 572 of /lib/upgradelib.php: downgrade_exception thrown
+* line 1647 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 677 of /admin/index.php: call to upgrade_noncore()
+
+[31-Jan-2016 17:38:21 Asia/Kolkata] Default exception handler: Cannot downgrade qtype_ddimageortext from 2015111600 to 2015051000. Debug: 
+Error code: cannotdowngrade
+* line 572 of /lib/upgradelib.php: downgrade_exception thrown
+* line 1647 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 677 of /admin/index.php: call to upgrade_noncore()
+
